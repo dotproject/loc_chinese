@@ -47,6 +47,7 @@
 "To"=>"到",
 "View Project"=>"查看项目",
 "Work"=>"完成",
+"Worked Hours"=>"已用工时",
 "change color"=>"更换颜色",
 "delete project"=>"删除项目",
 "edit this project"=>"编辑此项目",
