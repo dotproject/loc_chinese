@@ -1,7 +1,7 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"%s ago"=>"",
+"%s ago"=>"%s前",
 "- Filters -"=>"- 过滤器 -",
 "Add Message"=>"加新帖子",
 "Author"=>"发贴人",
@@ -29,13 +29,13 @@
 "No replies"=>"无回复",
 "Post Reply"=>"张贴回复",
 "Related Project"=>"隶属项目",
-"Replies"=>"帖子数",
+"Replies"=>"帖子",
 "Started"=>"已开始",
 "Subject"=>"主题",
-"Topics"=>"话题数",
+"Topics"=>"话题",
 "Watch"=>"查看",
 "add new forum"=>"添加新论坛",
-"days"=>"天数",
+"days"=>"天",
 "delete forum"=>"删除论坛",
 "formusDelete"=>"你确定要删除此张贴?",
 "formusType"=>"张贴前请输入帖子内容.",

@@ -9,7 +9,7 @@
 "Edit Contact"=>"编辑联系人",
 "contacts list"=>"联系人列表",
 "contactsDelete"=>"你确定要删除此联系人么?",
-"contactsOrderBy",
+"contactsOrderBy"=>"请输入值来排序???",
 "contactsValidName"=>"请输入有效的联系人名字.",
 "delete contact"=>"删除联系人",
 "new contact"=>"新建联系人",

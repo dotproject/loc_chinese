@@ -1,7 +1,7 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"Active Users"=>"启用用户",
+"Active Users"=>"激活用户",
 "Add User"=>"添加用户",
 "Add or Edit Permissions"=>"添加或编辑权限",
 "Administrator"=>"系统管理员",

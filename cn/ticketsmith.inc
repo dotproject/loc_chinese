@@ -11,7 +11,7 @@
 "Followup"=>"跟进",
 "Open"=>"开放",
 "Priority"=>"优先级",
-"Status"=>"状态",
+"Status"=>"状况",
 "Subject"=>"主题",
 "Trouble Ticket Management"=>"问题跟踪处理",
 "View"=>"查看",
