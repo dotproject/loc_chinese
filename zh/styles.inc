@@ -1,5 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"default"=>"标准风格",
+"classic"=>"传统风格",
+"default"=>"默认清爽风格",
 "demo1"=>"演示用风格",

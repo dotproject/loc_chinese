@@ -1,6 +1,7 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"new task"=>"新的任务",
 "Action"=>"作用",
 "Add Task"=>"添加任务",
 "All Tasks"=>"所有任务",

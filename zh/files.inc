@@ -1,12 +1,10 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"filesDelete"=>"你确定要删除此文件么?",
-"File deleted"=>"文件已删除",
 "Date"=>"日期",
 "Edit File"=>"编辑文件",
-"File Management"=>"文件管理",
 "File Name"=>"文件名",
+"File deleted"=>"文件已删除",
 "File inserted"=>"文件已添加",
 "File updated"=>"文件已更新",
 "New File"=>"新文件",
@@ -20,3 +18,4 @@
 "download"=>"下载",
 "fileIdError"=>"An invalid file handle was passed to the function？？？",
 "files list"=>"文件列表",
+"filesDelete"=>"你确定要删除此文件么?",

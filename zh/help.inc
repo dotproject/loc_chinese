@@ -14,5 +14,4 @@
 "Saving Your Place"=>"保存你的位置",
 "Tabbed Property Boxes"=>"标签模式特性",
 "Top Menu"=>"顶部菜单",
-"accessDeniedMsg"=>"<p>您试图访问项目管理系统中的某条目，但是您没有足够的权限。</p><p>请联系项目管理系统的系统管理员。</p>",
 "helpIntro"=>"这里是一些帮助主题的快速连接，这些主题不能直接在帮助目录里找到。",

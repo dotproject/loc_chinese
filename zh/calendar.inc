@@ -1,9 +1,13 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"View Event"=>"查看事项",
 "Edit Event"=>"编辑事项",
 "End Date"=>"结束日期",
 "Event Title"=>"事项标题",
+"Event deleted"=>"事项已删除",
+"Event inserted"=>"事项已添加",
+"Event updated"=>"事项已更新",
 "New Event"=>"新建事项",
 "Recurs"=>"重复",
 "Remind Me"=>"提醒我在",
@@ -11,8 +15,11 @@
 "Time"=>"时间",
 "Week"=>"周",
 "delete event"=>"删除事项",
+"deleteEvent"=>"您确定要删除此事项么",
+"edit this event"=>"编辑此事项",
 "in advance"=>"之前",
 "month view"=>"月历",
 "times"=>"次",
 "today"=>"今日",
+"view this event"=>"查看此事项",
 "week view"=>"周历",
