@@ -1,7 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"edit"=>"编辑",
 "Abbreviation"=>"缩写",
 "Are you sure you want to delete this?"=>"你确认要删除么？",
 "Are you sure?"=>"你确认么？",
@@ -11,6 +10,7 @@
 "Default"=>"默认",
 "Default User Preferences"=>"默认用户参数设置",
 "Edit User Preferences"=>"编辑用户参数",
+"ja"=>"日文",
 "Key Type"=>"键类型",
 "Label"=>"标签",
 "Language"=>"语言",
@@ -62,6 +62,7 @@
 "de"=>"德文",
 "deleted"=>"已删除",
 "disabled"=>"禁止",
+"edit"=>"编辑",
 "en"=>"英文",
 "es"=>"西班牙文",
 "fr"=>"法文",
@@ -69,7 +70,7 @@
 "inserted"=>"已添加",
 "install"=>"安装",
 "pt_br"=>"葡萄牙",
-"pt_br"=>"葡萄牙文",
+"pt"=>"葡萄牙文",
 "pl"=>"波兰",
 "remove"=>"移除",
 "system admin"=>"系统管理",
