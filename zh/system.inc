@@ -1,7 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"Preferences updated"=>"参数设置已更新",
 "Abbreviation"=>"缩写",
 "Date and Time"=>"日期和时间",
 "Default"=>"默认",
@@ -12,6 +11,7 @@
 "Locales file saved"=>"语言文件已保存",
 "Module"=>"模块",
 "Preferences"=>"参数设置",
+"Preferences updated"=>"参数设置已更新",
 "Short Date Format"=>"简写日期格式",
 "String"=>"字串",
 "System Administration"=>"系统管理",
@@ -20,3 +20,10 @@
 "Translation Management"=>"翻译管理",
 "User Interface Style"=>"用户界面风格",
 "User Preferences"=>"用户参数设置",
+"cs"=>"捷克文",
+"de"=>"德文",
+"en"=>"英文",
+"es"=>"西班牙文",
+"fr"=>"法文",
+"pt_br"=>"葡萄牙文",
+"zh"=>"中文",
