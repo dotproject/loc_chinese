@@ -1,14 +1,19 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"new contact"=>"新添联系人",
 "Add Company"=>"添加公司",
+"All Companies"=>"所有公司",
 "Budget"=>"预算",
+"Clients"=>"客户",
 "Company Name"=>"公司名称",
 "Company Owner"=>"公司业主",
 "Edit Company"=>"编辑公司",
 "Invalid Company ID"=>"无效的公司ID",
+"No companies available"=>"无公司可用",
 "Started"=>"已开始",
 "Status"=>"状况",
+"Suppliers"=>"供应商",
 "View Company"=>"查看公司",
 "cdepartment::store-check failed"=>"",
 "companies list"=>"公司列表",
@@ -16,6 +21,8 @@
 "companyDelete"=>"你确定要删除此公司么?",
 "companyValidName"=>"请输入有效的公司名称",
 "delete company"=>"删除公司",
+"e-mail",
 "edit this company"=>"编辑此公司",
+"inserted"=>"已添加",
 "new company"=>"新添公司",
 "view this company"=>"查看此公司",
