@@ -1,6 +1,11 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"edit"=>"编辑",
+"all"=>"全部",
+"delete permission"=>"删除权限",
+"edit permissions"=>"编辑权限",
+"select dept..."=>"选择部门",
 "Active Users"=>"激活用户",
 "Add User"=>"添加用户",
 "Add or Edit Permissions"=>"添加或编辑权限",
@@ -28,7 +33,7 @@
 "Owned Projects"=>"拥有项目",
 "Permissions"=>"权限",
 "Proposed"=>"提议",
-"Real Name"=>"真实名",
+"Real Name"=>"真实姓名",
 "Signature"=>"签名",
 "Super User"=>"超级用户",
 "Supervisor"=>"主管",
@@ -52,6 +57,6 @@
 "edit this user"=>"编辑此用户",
 "full access to module"=>"模块全部存取权限",
 "read only"=>"只读",
-"read-write"=>"只写",
+"read-write"=>"读写",
 "users list"=>"用户列表",
 "view this user"=>"查看此用户",

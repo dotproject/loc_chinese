@@ -16,5 +16,5 @@
 "companyValidName"=>"请输入有效的公司名称",
 "delete company"=>"删除公司",
 "edit this company"=>"编辑此公司",
-"new company"=>"新建公司",
+"new company"=>"新添公司",
 "view this company"=>"查看此公司",

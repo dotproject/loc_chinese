@@ -9,6 +9,7 @@
 "badCompany"=>"无效的公司. 你无法添加部门.",
 "delDept"=>"你确定要删除此部门么",
 "deptIndexPage"=>"请通过公司来访问部门",
+"deptValidName"=>"请输入有效的部门名称",
 "deptWithProject"=>"你不能删除一个有项目关联的部门",
 "deptWithSub"=>"你不能删除一个有下级部门的部门",
 "edit this department"=>"编辑此部门",

@@ -1,6 +1,7 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"index"=>"索引",
 "About Modules"=>"关于模块",
 "Access Denied"=>"<font color=red>访问被拒绝！</font>",
 "Adding a Company"=>"添加一个公司",

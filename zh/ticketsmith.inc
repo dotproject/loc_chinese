@@ -1,6 +1,10 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"Back to top"=>"回到顶部",
+"Open Tickets"=>"开放的跟踪单",
+"Tickets"=>"跟踪单",
+"Search"=>"搜索",
 "Assigned to"=>"分配至",
 "All Tickets"=>"所有跟踪单",
 "Assigned to Me"=>"分配给自己",
@@ -10,9 +14,10 @@
 "Deleted"=>"删除",
 "Followup"=>"跟进",
 "Open"=>"开放",
+"Processing"=>"处理中",
 "Priority"=>"优先级",
 "Status"=>"状况",
 "Subject"=>"主题",
 "Trouble Ticket Management"=>"问题跟踪处理",
 "View"=>"查看",
-"new ticket"=>"新建跟踪单",
+"new ticket"=>"新添跟踪单",

@@ -9,6 +9,6 @@
 "contactsOrderBy"=>"请输入值来排序???",
 "contactsValidName"=>"请输入有效的联系人名字.",
 "delete contact"=>"删除联系人",
-"new contact"=>"新建联系人",
+"new contact"=>"新添联系人",
 "use in display"=>"用于显示",
 "view this contact"=>"查看此联系人",

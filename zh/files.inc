@@ -1,15 +1,15 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"select task..."=>"选择一个任务",
 "Browse..."=>"浏览...",
-"Add File"=>"添加文件",
 "SelectFirst"=>"请选择一个项目！",
 "- ALL PROJECTS -"=>"- 选择一个项目 -",
+"All Projects"=>"全部项目",
+"Add File"=>"添加文件",
 "Date"=>"日期",
 "Edit File"=>"编辑文件",
 "File Name"=>"文件名",
-"new file"=>"新文件",
+"New File"=>"新添文件",
 "Size"=>"大小",
 "Type"=>"类型",
 "Upload File"=>"上载文件",
@@ -21,3 +21,5 @@
 "fileIdError"=>"无效的文件操作",
 "files list"=>"文件列表",
 "filesDelete"=>"你确定要删除此文件么?",
+"new file"=>"新添文件",
+"select task"=>"选择一个任务",

@@ -1,10 +1,13 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"edit"=>"编辑",
 "Abbreviation"=>"缩写",
 "Date and Time"=>"日期和时间",
 "Default"=>"默认",
 "Default User Preferences"=>"默认用户参数设置",
+"Edit User Preferences"=>"编辑用户参数",
+"Key Type"=>"键类型",
 "Language"=>"语言",
 "Language Support"=>"语言支持",
 "Locale"=>"语言",
@@ -30,6 +33,7 @@
 "User Interface Style"=>"用户界面风格",
 "User Preferences"=>"用户参数设置",
 "User Roles"=>"用户职务",
+"Values"=>"键值",
 "View Modules"=>"查看模块",
 "active"=>"激活",
 "cn"=>"中文",
@@ -41,5 +45,6 @@
 "fr"=>"法文",
 "pt_br"=>"葡萄牙文",
 "remove"=>"移除",
+"system admin"=>"系统管理",
 "visible"=>"可见",
 "zh"=>"中文",
