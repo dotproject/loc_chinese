@@ -10,6 +10,7 @@
 "Started"=>"已开始",
 "Status"=>"状况",
 "View Company"=>"查看公司",
+"cdepartment::store-check failed"=>"",
 "companies list"=>"公司列表",
 "company list"=>"公司列表",
 "companyDelete"=>"你确定要删除此公司么?",

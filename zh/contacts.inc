@@ -1,9 +1,16 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"Add Contact"=>"新添联系人",
 "Contact Notes"=>"联系人注释",
 "Display Name"=>"显示名字",
 "Edit Contact"=>"编辑联系人",
+"Export vCard for"=>"导出 vCard",
+"Fetch vCard(s) File"=>"读取 vCard 文件",
+"Import vCard"=>"导入 vCard",
+"Reset search"=>"重新搜索",
+"Search for"=>"搜索",
+"contactIdError"=>"无效联系人操作",
 "contacts list"=>"联系人列表",
 "contactsDelete"=>"你确定要删除此联系人么?",
 "contactsOrderBy"=>"请输入值来排序???",
@@ -12,3 +19,7 @@
 "new contact"=>"新添联系人",
 "use in display"=>"用于显示",
 "view this contact"=>"查看此联系人",
+"vCard(s) imported"=>"vCard 已导入",
+"vCardFileUploadError"=>"上传 vCard 文件出错",
+"vCardImportError"=>"vCard 文件不能导入: 无效联系人操作",
+"yyyy-mm-dd",

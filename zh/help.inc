@@ -1,7 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"index"=>"索引",
 "About Modules"=>"关于模块",
 "Access Denied"=>"<font color=red>访问被拒绝！</font>",
 "Adding a Company"=>"添加一个公司",
@@ -16,3 +15,4 @@
 "Tabbed Property Boxes"=>"标签模式特性",
 "Top Menu"=>"顶部菜单",
 "helpIntro"=>"这里是一些帮助主题的快速连接，这些主题不能直接在帮助目录里找到。",
+"index"=>"索引",

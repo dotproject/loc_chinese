@@ -1,7 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"mark as finished"=>"标记为已完成",
 "Add Event"=>"添加事项",
 "Day View"=>"按天查看",
 "Due In"=>"到期",
@@ -18,14 +17,17 @@
 "New Event"=>"新添事项",
 "Overdue"=>"过期",
 "P",
+"Parent Task"=>"母任务",
 "Progress"=>"进度",
 "Recurs"=>"重复",
 "Remind Me"=>"提醒我在",
 "Should have started"=>"应该已经开始的",
 "Start Date"=>"开始日期",
 "Started and on time"=>"已开始且准时进行中",
+"Starts"=>"开始",
 "Task / Project"=>"任务 / 项目",
 "Time"=>"时间",
+"Today"=>"今日",
 "View Event"=>"查看事项",
 "Week"=>"周",
 "Week View"=>"按周查看",
@@ -34,6 +36,7 @@
 "deleteEvent"=>"您确定要删除此事项么",
 "edit this event"=>"编辑此事项",
 "in advance"=>"之前",
+"mark as finished"=>"标记为已完成",
 "month view"=>"按月查看",
 "new event"=>"新添事项",
 "set priority to high"=>"设置优先级为 高",

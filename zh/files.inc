@@ -9,6 +9,7 @@
 "Date"=>"日期",
 "Edit File"=>"编辑文件",
 "File Name"=>"文件名",
+"File could not be written"=>"文件不能写入",
 "New File"=>"新添文件",
 "Size"=>"大小",
 "Type"=>"类型",
