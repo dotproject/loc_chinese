@@ -2,9 +2,6 @@
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
 "Contact Notes"=>"联系人注释",
-"Contact deleted"=>"联系人已删除",
-"Contact inserted"=>"联系人已添加",
-"Contact updated"=>"联系人已更新",
 "Display Name"=>"显示名字",
 "Edit Contact"=>"编辑联系人",
 "contacts list"=>"联系人列表",

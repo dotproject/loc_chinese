@@ -1,13 +1,15 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"select task..."=>"选择一个任务",
+"Browse..."=>"浏览...",
+"Add File"=>"添加文件",
+"SelectFirst"=>"请选择一个项目！",
+"- ALL PROJECTS -"=>"- 选择一个项目 -",
 "Date"=>"日期",
 "Edit File"=>"编辑文件",
 "File Name"=>"文件名",
-"File deleted"=>"文件已删除",
-"File inserted"=>"文件已添加",
-"File updated"=>"文件已更新",
-"New File"=>"新文件",
+"new file"=>"新文件",
 "Size"=>"大小",
 "Type"=>"类型",
 "Upload File"=>"上载文件",
@@ -16,6 +18,6 @@
 "add new file"=>"添加新文件",
 "delete file"=>"删除文件",
 "download"=>"下载",
-"fileIdError"=>"An invalid file handle was passed to the function？？？",
+"fileIdError"=>"无效的文件操作",
 "files list"=>"文件列表",
 "filesDelete"=>"你确定要删除此文件么?",

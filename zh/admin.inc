@@ -1,7 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"add user"=>"添加用户",
 "Active Users"=>"激活用户",
 "Add User"=>"添加用户",
 "Add or Edit Permissions"=>"添加或编辑权限",
@@ -25,11 +24,8 @@
 "Mobile"=>"移动电话",
 "Module"=>"模块",
 "Not Defined"=>"未定义",
-"On hold"=>"",
+"On hold"=>"暂停",
 "Owned Projects"=>"拥有项目",
-"Permission deleted"=>"权限已删除",
-"Permission inserted"=>"权限已添加",
-"Permission updated"=>"权限已更新",
 "Permissions"=>"权限",
 "Proposed"=>"提议",
 "Real Name"=>"真实名",
@@ -38,10 +34,8 @@
 "Supervisor"=>"主管",
 "User Management"=>"用户管理",
 "User Type"=>"用户类型",
-"User deleted"=>"用户已删除",
-"User inserted"=>"用户已添加",
-"User updated"=>"用户已更新",
 "View User"=>"查看用户",
+"add user"=>"添加用户",
 "adminInvalidBirthday"=>"请输入有效的生日日期格式: (YYYY-MM-DD)或者不填.",
 "adminInvalidDay"=>"你给定的日子是无效的.",
 "adminInvalidEmail"=>"你的 email 是无效的, 请再试一次.",

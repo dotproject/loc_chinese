@@ -1,6 +1,7 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"Inactive Projects"=>"未激活的项目",
 "%s ago"=>"%s前",
 "- Filters -"=>"- 过滤器 -",
 "Add Message"=>"加新帖子",
@@ -9,12 +10,6 @@
 "Edit Message"=>"编辑此贴子",
 "Forum"=>"论坛",
 "Forum Name"=>"论坛名称",
-"Forum deleted"=>"论坛已删除",
-"Forum inserted"=>"论坛已添加",
-"Forum message deleted"=>"论坛帖子已删除",
-"Forum message inserted"=>"论坛帖子已添加",
-"Forum message updated"=>"论坛帖子已更新",
-"Forum updated"=>"论坛已更新",
 "Last 30 days"=>"最近30天",
 "Last Post"=>"最后发贴",
 "Last Post Info"=>"最后发表",
@@ -34,15 +29,12 @@
 "Subject"=>"主题",
 "Topics"=>"话题",
 "Watch"=>"查看",
-"add new forum"=>"添加新论坛",
+"new forum"=>"新建论坛",
 "days"=>"天",
 "delete forum"=>"删除论坛",
-"forumDeleteForum"=>"您确认要删除此论坛么?
-
-注意: 这将删除此论坛里的所有帖子.",
-"forumDeletePost"=>"您确认要\n删除此帖子么?
-",
-"forumEmailBody"=>"你查看得论坛有新的回复.",
+"forumDeleteForum"=>"您确认要删除此论坛(以及此论坛里的所有帖子)么？",
+"forumDeletePost"=>"您确认要删除此帖子么?",
+"forumEmailBody"=>"你查看的论坛有新的回复.",
 "forumEmailFrom"=>"Dotproject 论坛查看",
 "forumEmailSubj"=>"Dotproject 论坛回复",
 "forumName"=>"请输入有效的论坛名称",
@@ -52,7 +44,6 @@
 "forumTypeMessage"=>"发贴前请输入一些内容",
 "forums list"=>"论坛列表",
 "forumsDelete"=>"你确定要删除此帖子么?",
-"forumsSubject"=>"请输入有效的帖子主题.",
 "hours"=>"小时",
 "minutes"=>"分钟",
 "moderated"=>"主持",

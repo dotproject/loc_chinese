@@ -1,6 +1,11 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"Task Creator"=>"任务创建人",
+"show full project"=>"显示整个项目",
+"show this month"=>"显示此月",
+"From"=>"从",
+"To"=>"到",
 "Active"=>"激活",
 "Actual Budget"=>"实际费用",
 "Actual End Date"=>"实际结束日期",
@@ -28,12 +33,8 @@
 "Not Defined"=>"-未定义-",
 "On Hold"=>"暂停",
 "Progress"=>"进度",
-"Project Management"=>"项目管理",
 "Project Name"=>"项目名称",
 "Project Owner"=>"项目主管",
-"Project deleted"=>"项目已删除",
-"Project inserted"=>"项目已添加",
-"Project updated"=>"项目已更新",
 "Proposed"=>"提议",
 "Short Name"=>"简称",
 "Size"=>"大小",
@@ -58,7 +59,6 @@
 "projectsBadEndDate1"=>"项目结束日期必须在开始日期之后",
 "projectsBadEndDate2"=>"实际项目结束日期必须在开始日期之后",
 "projectsColor"=>"请选择一个颜色来标识此项目.",
-"projectsDelete"=>"你确定要删除此项目么?",
 "projectsValidName"=>"请输入有效的项目名称",
 "refresh"=>"刷新",
 "view this project"=>"查看此项目",
