@@ -1,6 +1,6 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
-"classic"=>"´«Í³·ç¸ñ",
-"default"=>"Ä¬ÈÏÇåË¬·ç¸ñ",
-"demo1"=>"ÑÝÊ¾ÓÃ·ç¸ñ",
+"classic"=>"ä¼ ç»Ÿé£Žæ ¼",
+"default"=>"é»˜è®¤æ¸…çˆ½é£Žæ ¼",
+"demo1"=>"æ¼”ç¤ºç”¨é£Žæ ¼",
