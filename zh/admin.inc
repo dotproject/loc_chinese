@@ -1,14 +1,15 @@
 ##
 ## DO NOT MODIFY THIS FILE BY HAND!
 ##
+"add user"=>"添加用户",
 "Active Users"=>"激活用户",
 "Add User"=>"添加用户",
 "Add or Edit Permissions"=>"添加或编辑权限",
 "Administrator"=>"系统管理员",
-"Branch Manager"=>"分店经理",
-"CEO"=>"执行总裁",
+"Branch Manager"=>"部门经理",
+"CEO"=>"首席执行官",
 "Complete"=>"完成",
-"Director"=>"董事",
+"Director"=>"总监",
 "Edit User"=>"编辑用户",
 "Employee"=>"雇员",
 "Filter"=>"过滤器",
@@ -49,7 +50,7 @@
 "adminPasswordsDiffer"=>"你的密码不对.",
 "adminValidFirstName"=>"请输入名字",
 "adminValidLastName"=>"请输入姓氏",
-"adminValidPassword"=>"请输入有效的密码(多余4个字符).",
+"adminValidPassword"=>"请输入有效的密码(不少于4个字符).",
 "adminValidUserName"=>"请输入有效用户名.",
 "change password"=>"更改密码",
 "deny"=>"拒绝",
